@@ -5,4 +5,4 @@ with open('Check.txt','r') as firstfile, open('Basics.txt','a') as secondfile:
     for line in firstfile:
                
              # append content to second file
-             secondfile.write("Aman Pandey ")
+             secondfile.write("WhatsApp ")
